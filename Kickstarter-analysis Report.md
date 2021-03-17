@@ -6,15 +6,18 @@
 ## The analysis Objective: 
     ## To help Louis know how different campaigns fared to their launch dates and funding goals.
 
+
 ## Analysis of Outcomes Based on Launch Date : 
     ## The hypotheses, there is a relationship between Campgin outcome & Launch Date. we will visualize campaign outcomes ("successful," "failed," and "canceled") based on the launch date to examine the correlation and draw a conclusion 
-
+        https://github.com/zaatrim/kickstarter-analysis/blob/4c9316cdb7259751c5e4899f70dafe6ff7037116/Theater_Outcomes_vs_Launch.png
 
 ## Analysis of Outcomes Based on Goals
     ## In Outcomes Based on Goals we will visualize the percentage of successful, failed, and canceled plays based on the funding goals amount.
 
+        https://github.com/zaatrim/kickstarter-analysis/blob/4c9316cdb7259751c5e4899f70dafe6ff7037116/Outcomes_vs_Goals.png
+
 ### Challenges and Difficulties Encountered:
-    ### The given intervals resulted in skipping 4 data points in the 50000 Goal. Searched through each interval to locate the gaps. And Then Changed the Criteria for the last interval to be "Greater than 49999" instead of "Greater than 50000". 
+    ### The given intervals resulted in skipping 4 data points, where Goal equal to 50000 . Searched through each interval to locate the gaps. And Then Changed the Criteria for the last interval to be "Greater than 49999" instead of "Greater than 50000". 
 
 ## **Results**
 
